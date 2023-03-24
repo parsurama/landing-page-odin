@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {}
+
+header {
+    padding: 20px 150px 50px;
+    padding: #1f2937;
+    color: white;
+    background-color: #1f2937;
+}
+
+.header-1 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 75px;
+}
+
+.header-2 {
+
+    display: flex;
+    align-items: center;
+}
+
+.top-links {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.sign-up {
+
+    background: #3498db;
+    border-radius: 8px;
+    font-family: Georgia;
+    color:white;
+    font-size: 20px;
+    padding: 8px 25px;
+}
+
+.tulip-image {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    font-size: 48px;
+
+}
+
+.subtext {
+    padding-bottom: 35px;
+    font-size: 18px;
+    padding-right: 350px;
+}
+
+.header-logo {
+    font-size: 30px;
+}
+
+.blue-sq {
+    width: 150px;
+    height: auto;
+    border-radius: 20px;
+    border: 2px solid darkblue;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    
+}
+
+.random-info {
+    font-size: 35px;
+    text-align: center;
+    padding: 45px 25px 50px;
+}
+
+.two{
+    padding-bottom: 75px;
+}
+
+.three {
+    padding: 100px 150px;
+    padding: #e5e7eb;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 75%;
+    font-size: 30px;
+    padding-left: 200px;
+    
+}
+
+.by-thor {
+    text-align: right;
+}
+
+.four {
+    background-color: #3882f6;
+    color: white;
+    display: flex;
+    padding: 50px 150px;
+    margin: 100px 200px;
+    border-radius: 25px;
+}
+
+.sign-up2 {
+    color: white;
+    border: 2px solid white;
+    background-color:#3882f6;
+    border-radius: 8px;
+    padding: 8px 25px;
+    font-size: 20px;
+    
+}
+
+.four-text {
+    padding-right: 100px;
+}
+
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: white;
+    padding: 40px;
+}
